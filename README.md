@@ -23,7 +23,7 @@ Didalam class **Baju** memiliki 2 atribut, yaitu :
 * Warna
 * Tipe
 
-(diagram.png)
+![diagram](diagram.png)
 
 ## Alur Program
 * Pertama, import library dan file kelas yang digunakan
@@ -35,4 +35,4 @@ Didalam class **Baju** memiliki 2 atribut, yaitu :
 
 ## Dokumentasi
 
-(ss_python.png)
+![ss_python](ss_python.png)
