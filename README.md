@@ -36,4 +36,4 @@ Didalam class **Baju** memiliki 2 atribut, yaitu :
 ## Dokumentasi
 
 ### Dokumentasi Python
-![Python program](python/ss_Python.png)
+![Python program](Python/ss_python.png)
